@@ -96,9 +96,10 @@ WHERE NumAndar = andar
 $$ LANGUAGE SQL;
 
 -- Execução dos testes
--- SELECT * FROM Teste1(1,1);
+SELECT * FROM Teste1(1,1);
+-- SELECT * FROM Teste21(3);
 -- SELECT * FROM Teste22(3);
 -- SELECT * FROM Teste3(3);
 -- SELECT * FROM Teste41(1,1);
 -- SELECT * FROM Teste42(1,1);
-SELECT * FROM Teste5(3);
+-- SELECT * FROM Teste5(3);
