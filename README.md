@@ -18,6 +18,6 @@ Com o banco criado, o arquivo ```ModelTests.sql``` pode ser executado para anali
 
 Para deletar o banco e seu *schema*, basta executar a query ```DestroyModel.sql```.
 
-### Créditos
+## Créditos
 
 O modelo conceitual foi construído utilizando o software [brModelo 3](http://www.sis4.com/brModelo/), para Linux.
